@@ -1,0 +1,12 @@
+- Balancing Changes
+- Fixes to end game
+- Cannot build on water except for roads
+- Roads can only go next to roads
+- Buildings can only go next to roads
+- Can use numbers to jump to particular building types (1 for house, 2 for road etc.)
+- Removed Transport fares
+- Added rocks that can be removed
+- Display max population upon game end
+- Ability to activate inflation (1.1x increase each turn)
+- Tax evaders - 5-10% of the population can be a tax evader - can be toggled on/off
+- Pollution now displayed as percentage
